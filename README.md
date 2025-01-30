@@ -53,4 +53,4 @@ Dado que mo contamos actualmente con VS code instalado en loc omputadores de la 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠳⠶⠶⢤⣤⡤⠶⠞⠋⠀⠀⠀⠀⠀⠀⠀
 
 
-![Imagen](./Imagenes/bck.jpg)⠀
+![Imagen](./Imagenes/backyardigans.jpg)⠀
